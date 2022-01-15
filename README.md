@@ -1,3 +1,18 @@
+## Project Purpose:
+
+This project was built to practice my ReactJS. Project uses Pixabay Image API to fetch image and you can login to favourite images.
+
+
+![no image zero](https://user-images.githubusercontent.com/90255998/149631696-6c6b456d-e0e3-4db9-a2f7-52886344bab0.png)
+
+![3 Image](https://user-images.githubusercontent.com/90255998/149631697-71fe47eb-87fe-48d8-8428-2a454de28729.png)
+
+![5 Image](https://user-images.githubusercontent.com/90255998/149631686-a6656c65-aeec-4acb-9e17-a1cbca882582.png)
+
+![14 Image](https://user-images.githubusercontent.com/90255998/149631688-9914dc1a-1d74-4b04-acd9-b01b1e03e50a.png)
+
+![40Image](https://user-images.githubusercontent.com/90255998/149631691-273bfbf9-262a-451d-b06b-94ca02de6970.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
